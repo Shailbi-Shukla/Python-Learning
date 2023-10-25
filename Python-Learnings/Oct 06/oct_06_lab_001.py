@@ -8,9 +8,9 @@
 # print(num1 + num2)
 #
 #
-y="hello"
-print(type(y))
+y="1234"
+# print(type(y))
 
 y = int(y)
 print(y)
-print(type(y))
+# print(type(y))

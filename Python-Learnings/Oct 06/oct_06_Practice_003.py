@@ -23,18 +23,18 @@
 # print(jak)
 
 
-user_name= input('enter the username\n')
-password= input('enter the password\n')
-
-db_username= 'Shailbi_shukla'
-db_password= 'Shailbi@123'
-
-if user_name==db_username and password==db_password:
-    print('Successfully login')
-else:
-    print('incorrect username/password')
-
-s='This is a cat'
-print(s[10:13])
-
-
+# user_name= input('enter the username\n')
+# password= input('enter the password\n')
+#
+# db_username= 'Shailbi_shukla'
+# db_password= 'Shailbi@123'
+#
+# if user_name==db_username and password==db_password:
+#     print('Successfully login')
+# else:
+#     print('incorrect username/password')
+#
+# s='This is a cat'
+# print(s[10:13])
+#
+#

@@ -2,10 +2,10 @@
 # Write Python 3 code in this online editor and run it.
 # print("Hello world")
 # name = 'youtube'
-# print(name)
+# # print(name)
 # print (name * 3)
 # U= "HUSBAND"
-# print(U[: : -2])
+# print(U[: : 2])
 
 
 # x="Ram"
@@ -17,10 +17,10 @@
 # print(id(p))
 # print(type(True))
 # Even_nums= [0,2,4,6,8]
-# print(Even_nums[-1])
+# print(Even_nums[-2])
 # print(Even_nums[0])
 # print(Even_nums[1:4])
-# Name=['shailbi','shivam','sangam']
+Name=['shailbi','shivam','sangam']
 # Age=[28,30,25]
 # print(Name)
 # print(Age)
@@ -30,8 +30,8 @@
 # print(Name)
 # Name.append('riya')
 # print(Name[1])
-# Name.pop()
-# print(Name)
+Name.pop()
+print(Name)
 # print(Name.index('shivam'))
 
 
@@ -96,17 +96,17 @@
 # del nums[1:5]
 # print(nums)
 
-a=10
-b=10
-print(id(a))
-print(id(b))
-print(type(a))
-set ={1,2,3,4,5}
-print(len(set))
-print(type(set))
-
-x= list(range(1,15,2))
-print(x)
+# a=10
+# b=10
+# print(id(a))
+# print(id(b))
+# print(type(a))
+# set ={1,2,3,4,5}
+# print(len(set))
+# print(type(set))
+#
+# x= list(range(1,15,2))
+# print(x)
 
 
 
